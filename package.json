@@ -1,0 +1,15 @@
+{
+  "name": "chaining_request",
+  "version": "1.0.0",
+  "description": "Andela Learning Community Project",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "chains"
+  },
+  "keywords": [
+    "javascript",
+    "project"
+  ],
+  "author": "wambete soita",
+  "license": "ISC"
+}
