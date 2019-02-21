@@ -11,5 +11,9 @@
     "project"
   ],
   "author": "wambete soita",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
 }
